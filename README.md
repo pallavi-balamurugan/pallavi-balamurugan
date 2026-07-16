@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Pallavi Balamurugan 👋</h1>
 <h3 align="center">DevOps / Cloud Engineer | Automating infrastructure, one pipeline at a time ⚙️☁️</h3>
 
 <br>
