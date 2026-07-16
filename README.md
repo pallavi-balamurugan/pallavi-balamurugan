@@ -1,4 +1,4 @@
-<h1 align="center">I'm Pallavi Balamurugan born in November 👋</h1>
+<h1 align="center">I'm Pallavi Balamurugan  👋</h1>
 <h3 align="center">DevOps / Cloud Engineer | Automating infrastructure, one pipeline at a time ⚙️☁️</h3>
 
 <br>
