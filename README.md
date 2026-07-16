@@ -5,10 +5,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[project/company name]**
+- 🔭 I'm currently working on **Netflix**
 - 🌱 I'm currently learning **[e.g. Kubernetes, Terraform, AWS]**
 - 💬 Ask me about **CI/CD, Docker, Kubernetes, Cloud Infrastructure**
-- ⚡ Fun fact: **[something fun about you]**
+
 
 <br>
 
